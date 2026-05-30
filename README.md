@@ -164,4 +164,4 @@ This ensures:
 - Goes beyond revenue → identifies **who drives revenue**
 - Combines **behavioral + geographic analysis**
 - Highlights hidden risk using **Average vs Median comparison**
-- Designed for **executive decision-making**, not just reporting
+- Designed for **executive decision-making**, not just reporting.
